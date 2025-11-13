@@ -14,5 +14,6 @@ chatForm.addEventListener("submit", (e) => {
   // and handle the response using: data.choices[0].message.content
 
   // Show message
+  //making initial commit
   chatWindow.innerHTML = "Connect to the OpenAI API for a response!";
 });
